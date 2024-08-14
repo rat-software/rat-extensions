@@ -1,6 +1,6 @@
 ### RAT extensions
 
-This repository contains an overview of extensions to the @rat-software project created by our developer community.
+This repository contains an overview of extensions to the [@rat-software](https://github.com/rat-software) project created by our developer community.
 
 ### Available Extensions:
 - Imprint Crawler: https://github.com/rat-extensions/imprint-crawler
