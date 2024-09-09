@@ -8,3 +8,4 @@ This repository contains an overview of extensions to the [@rat-software](https:
 - Forum Scraper: https://github.com/rat-extensions/forum-scraper
 - EI Logger: https://github.com/rat-extensions/EI_Logger_BA
 - Identifying affiliate links in webpages: https://github.com/rat-extensions/Identifying-affiliate-links-in-webpages
+- App Reviews Scraper: https://github.com/rat-extensions/app-reviews-scraper
