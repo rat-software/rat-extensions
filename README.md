@@ -10,3 +10,4 @@ This repository contains an overview of extensions to the [@rat-software](https:
 - Identifying affiliate links in webpages: https://github.com/rat-extensions/Identifying-affiliate-links-in-webpages
 - App Reviews Scraper: https://github.com/rat-extensions/app-reviews-scraper
 - Visualizations of IR measures: https://github.com/rat-extensions/ir-evaluation
+- Scraping News Articles: https://github.com/rat-extensions/NewsArticlesScraper
