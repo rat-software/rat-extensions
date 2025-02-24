@@ -1,4 +1,4 @@
-### RAT extensions
+### Result Assessment Tool (RAT) extensions
 
 This repository contains an overview of extensions to the [@rat-software](https://github.com/rat-software) project created by our developer community.
 
